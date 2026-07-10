@@ -9,7 +9,7 @@
 <p>
 <img src="https://img.shields.io/badge/B.E._ISE-VVCE-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.6%2F10-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/CGPA-8.52%2F10-10B981?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Mysuru,_Karnataka-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
