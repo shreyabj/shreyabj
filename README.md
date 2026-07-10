@@ -290,7 +290,7 @@ Recognized for technical excellence during Infosys Springboard Internship.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyabj&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
